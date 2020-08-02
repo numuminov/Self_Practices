@@ -30,7 +30,7 @@ public class Stringwarmup {
                         oxidex
                     Output:
                         oidex
-
+// adding new line for git pull
 
 
         System.out.println("enter word");
